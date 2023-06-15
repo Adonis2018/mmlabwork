@@ -69,7 +69,7 @@ https://www.bilibili.com/video/BV1PN411y7C1/?spm_id_from=333.999.0.0&vd_source=3
 【学习形式】录播+社群答疑
 【作业布置】本次课程有作业，详情见本班的Github issue，提交时间为6月18日晚12点。
 
-## 作业仓库
+## 11班作业仓库
 学员手册的链接:
 https://aicarrier.feishu.cn/docx/QUxadeWW2op8UGxLfaOc1TtanQb
 直播回放在哪里
@@ -91,8 +91,6 @@ https://github.com/open-mmlab/OpenMMLabCamp/issues/133
 
 第四次作业的链接：https://github.com/open-mmlab/OpenMMLabCamp/issues/394
 
-第五次作业（MMSegmentation课程的作业！） 
-https://github.com/open-mmlab/OpenMMLabCamp/issues/145
 
 ------------
 # 其他内容
