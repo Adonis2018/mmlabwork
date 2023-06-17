@@ -91,6 +91,8 @@ https://github.com/open-mmlab/OpenMMLabCamp/issues/133
 
 第四次作业的链接：https://github.com/open-mmlab/OpenMMLabCamp/issues/394
 
+第五次作业链接： https://github.com/open-mmlab/OpenMMLabCamp/issues/412
+
 
 ------------
 # 其他内容
