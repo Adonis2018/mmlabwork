@@ -1,4 +1,10 @@
 # MMSegmentation练习
+原ipynb在colb上训练，但无法传到github，下载为ipynb也无法直接上传到github，所以直接上传了md文件，有些图片也是无法直接上传，只能一个一个修改后上传，真的很不方便。原ipynb文件在百度网盘自取：
+
+链接: https://pan.baidu.com/s/18KV59UW1f6RTCFThqWD2ug?pwd=6fri 提取码: 6fri 
+
+原文件中的配置文件是下载的子豪兄的迪拜数据集修改后得到的，这些配置文件已经上传到github（就在此文件夹中）。
+
 # 安装
 
 
@@ -1063,7 +1069,7 @@ plt.show()
 
 
     
-![png](output_44_0.png)
+![png](output_44_0.jpg)
     
 
 
@@ -1121,7 +1127,7 @@ plt.show()
 
 
     
-![png](output_49_0.png)
+![png](output_49_0.jpg)
     
 
 
@@ -3092,7 +3098,7 @@ plt.show()
 
 
     
-![png](output_91_0.png)
+![png](output_91_0.jpg)
     
 
 
@@ -3184,7 +3190,7 @@ plt.show()
 
 
     
-![png](output_99_0.png)
+![png](output_99_0.jpg)
     
 
 
